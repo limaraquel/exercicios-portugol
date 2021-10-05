@@ -1,2 +1,2 @@
-# exercicios-portugol
-Exercícios feitos no Portugol. 
+# exerciciosJava
+Exercícios Java
